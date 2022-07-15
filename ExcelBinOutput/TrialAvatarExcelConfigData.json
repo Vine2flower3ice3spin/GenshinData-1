@@ -304,6 +304,87 @@
         "isDynamicLevel": true
     },
     {
+        "trialAvatarId": 39,
+        "trialAvatarParamList": [
+            10000060,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 40,
+        "trialAvatarParamList": [
+            10000048,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 41,
+        "trialAvatarParamList": [
+            10000060,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 42,
+        "trialAvatarParamList": [
+            10000026,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 43,
+        "trialAvatarParamList": [
+            10000016,
+            30
+        ],
+        "isDynamicLevel": true,
+        "trialWeaponParamList": 201601
+    },
+    {
+        "trialAvatarId": 44,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 45,
+        "trialAvatarParamList": [
+            10000041,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 46,
+        "trialAvatarParamList": [
+            10000031,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 47,
+        "trialAvatarParamList": [
+            10000047,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 48,
+        "trialAvatarParamList": [
+            10000044,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
         "trialAvatarId": 500,
         "trialAvatarParamList": [
             10000034,
@@ -339,6 +420,14 @@
         "trialAvatarId": 504,
         "trialAvatarParamList": [
             10000027,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 505,
+        "trialAvatarParamList": [
+            10000065,
             26
         ],
         "isDynamicLevel": true
@@ -634,6 +723,27 @@
         "trialAvatarId": 1057,
         "trialAvatarParamList": [
             10000057,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1058,
+        "trialAvatarParamList": [
+            10000065,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1059,
+        "trialAvatarParamList": [
+            10000060,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1060,
+        "trialAvatarParamList": [
+            10000059,
             80
         ]
     },
@@ -974,6 +1084,27 @@
         ]
     },
     {
+        "trialAvatarId": 6041,
+        "trialAvatarParamList": [
+            10000060,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6042,
+        "trialAvatarParamList": [
+            10000030,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6043,
+        "trialAvatarParamList": [
+            10000003,
+            80
+        ]
+    },
+    {
         "trialAvatarId": 10000,
         "trialAvatarParamList": [
             10000005,
@@ -986,5 +1117,37 @@
             10000007,
             80
         ]
+    },
+    {
+        "trialAvatarId": 10500,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 10501,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 10502,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 10503,
+        "trialAvatarParamList": [
+            10000047,
+            35
+        ],
+        "isDynamicLevel": true
     }
 ]

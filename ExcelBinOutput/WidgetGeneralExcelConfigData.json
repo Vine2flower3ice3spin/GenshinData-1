@@ -2,60 +2,61 @@
     {
         "materialID": 220001,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220002,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220003,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220004,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [
             22
         ],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220005,
-        "PDOGJAHPHMC": [
+        "LBNBOMKJIIH": [
             4,
-            7
+            7,
+            9
         ],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220006,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInDungeon": true,
         "forbiddenDungeonList": [
             12,
             18,
             22
         ],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220008,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseWhenFight": true,
         "canUseInUnNormalMoveState": true,
@@ -68,72 +69,72 @@
             22,
             24
         ],
-        "LHGMFCLICEG": [
+        "KGMMDFAEKFF": [
             3
         ]
     },
     {
         "materialID": 220009,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220013,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220014,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220015,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220016,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220017,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseWhenFight": true,
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220018,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenCurrentAvatarDead": true,
         "canUseInLimitRegion": true,
         "canUseWhenFight": true,
@@ -141,13 +142,13 @@
         "canUseInAvatarFocus": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220019,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenCurrentAvatarDead": true,
         "canUseInLimitRegion": true,
         "canUseWhenFight": true,
@@ -155,13 +156,13 @@
         "canUseInAvatarFocus": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220020,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenCurrentAvatarDead": true,
         "canUseInLimitRegion": true,
         "canUseWhenFight": true,
@@ -169,255 +170,274 @@
         "canUseInAvatarFocus": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220021,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220022,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220023,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220024,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInDungeon": true,
         "forbiddenDungeonList": [
             22
         ],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220025,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220026,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220027,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220028,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "canUseInUnNormalMoveState": true,
-        "DCKLEMKIEHA": "VEHICLE_LIMIT_ONLY_VEHICLE",
+        "CDFHHIMIPHJ": "VEHICLE_LIMIT_ONLY_VEHICLE",
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220029,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220030,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220031,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220032,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220033,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220034,
-        "PDOGJAHPHMC": [
+        "LBNBOMKJIIH": [
             7
         ],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220035,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [
             22
         ],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220036,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInDungeon": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220037,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220038,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220039,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInDungeon": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220040,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInDungeon": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220042,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220043,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220044,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220045,
         "canUseInOtherWorld": true,
         "canUseInRoom": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseInLimitRegion": true,
         "canUseInDungeon": true,
         "canUseInHomeworld": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220046,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220047,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220048,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "canUseInUnNormalMoveState": true,
         "canUseInDungeon": true,
         "forbiddenDungeonList": [
             22
         ],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220049,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "canUseInUnNormalMoveState": true,
         "canUseInAvatarFocus": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
     },
     {
         "materialID": 220050,
         "canUseInOtherWorld": true,
-        "PDOGJAHPHMC": [],
+        "LBNBOMKJIIH": [],
         "canUseWhenFight": true,
         "forbiddenDungeonList": [],
-        "LHGMFCLICEG": []
+        "KGMMDFAEKFF": []
+    },
+    {
+        "materialID": 220051,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "LBNBOMKJIIH": [],
+        "canUseInHomeworld": true,
+        "forbiddenDungeonList": [],
+        "KGMMDFAEKFF": []
+    },
+    {
+        "materialID": 220052,
+        "canUseInOtherWorld": true,
+        "canUseInRoom": true,
+        "LBNBOMKJIIH": [],
+        "canUseWhenFight": true,
+        "canUseInUnNormalMoveState": true,
+        "forbiddenDungeonList": [],
+        "KGMMDFAEKFF": []
     }
 ]

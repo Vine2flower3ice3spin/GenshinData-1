@@ -233,5 +233,20 @@
         "avatarId": 10000066,
         "fetterLevel": 10,
         "rewardId": 241047
+    },
+    {
+        "avatarId": 10000060,
+        "fetterLevel": 10,
+        "rewardId": 241048
+    },
+    {
+        "avatarId": 10000065,
+        "fetterLevel": 10,
+        "rewardId": 241049
+    },
+    {
+        "avatarId": 10000059,
+        "fetterLevel": 10,
+        "rewardId": 241050
     }
 ]

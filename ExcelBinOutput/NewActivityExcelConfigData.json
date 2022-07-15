@@ -1529,6 +1529,54 @@
         "watcherId": []
     },
     {
+        "activityId": 5072,
+        "activityType": "NEW_ACTIVITY_MUSIC_GAME",
+        "nameTextMapHash": 1971769931,
+        "activitySceneTag": "",
+        "condGroupId": [
+            507201
+        ],
+        "watcherId": [
+            15072001,
+            15072002,
+            15072003,
+            15072004,
+            15072005,
+            15072006,
+            15072007,
+            15072008,
+            15072009,
+            15072010,
+            15072011,
+            15072012,
+            15072013,
+            15072014,
+            15072015,
+            15072016,
+            15072017,
+            15072018,
+            15072019,
+            15072020,
+            15072021
+        ]
+    },
+    {
+        "activityId": 5073,
+        "activityType": "NEW_ACTIVITY_COOP",
+        "nameTextMapHash": 3521841691,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": []
+    },
+    {
+        "activityId": 5074,
+        "activityType": "NEW_ACTIVITY_COOP",
+        "nameTextMapHash": 3627521587,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": []
+    },
+    {
         "activityId": 5075,
         "activityType": "NEW_ACTIVITY_GENERAL_BANNER",
         "nameTextMapHash": 1768512867,
@@ -1577,6 +1625,237 @@
         "activityId": 5078,
         "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
         "nameTextMapHash": 3901007963,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": []
+    },
+    {
+        "activityId": 5079,
+        "activityType": "NEW_ACTIVITY_LUMINANCE_STONE_CHALLENGE",
+        "nameTextMapHash": 1597753651,
+        "activitySceneTag": "",
+        "condGroupId": [
+            507901
+        ],
+        "watcherId": [
+            1507901,
+            1507902,
+            1507903,
+            1507904,
+            1507905,
+            1507906,
+            1507907
+        ]
+    },
+    {
+        "activityId": 5080,
+        "activityType": "NEW_ACTIVITY_GACHA",
+        "nameTextMapHash": 1032428627,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508001
+        ],
+        "watcherId": [
+            1508001,
+            1508002,
+            1508003,
+            1508011,
+            1508012,
+            1508024,
+            1508034,
+            1508041
+        ]
+    },
+    {
+        "activityId": 2013,
+        "activityType": "NEW_ACTIVITY_ROGUE_DIARY",
+        "nameTextMapHash": 3047307139,
+        "activitySceneTag": "",
+        "condGroupId": [
+            201301
+        ],
+        "watcherId": [
+            1201301,
+            1201302,
+            1201303,
+            1201304,
+            1201305,
+            1201306,
+            1201307,
+            1201309,
+            1201310,
+            1201311,
+            1201312,
+            1201314,
+            1201315,
+            1201316,
+            1201317,
+            1201319,
+            1201320,
+            1201321,
+            1201322,
+            1201323,
+            1201324,
+            1201325,
+            1201327,
+            1201329,
+            1201330,
+            1201331
+        ]
+    },
+    {
+        "activityId": 5081,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 2696249099,
+        "activitySceneTag": "",
+        "condGroupId": [],
+        "watcherId": []
+    },
+    {
+        "activityId": 2014,
+        "activityType": "NEW_ACTIVITY_SUMMER_TIME_2_8",
+        "nameTextMapHash": 2947634251,
+        "activitySceneTag": "",
+        "condGroupId": [
+            201401
+        ],
+        "watcherId": [
+            12014001,
+            12014002,
+            12014003,
+            12014004,
+            12014101,
+            12014102,
+            12014103,
+            12014104,
+            12014201,
+            12014202,
+            12014203,
+            12014204,
+            12014301,
+            12014302,
+            12014303,
+            12014304,
+            12014401,
+            12014402,
+            12014403,
+            12014404,
+            12014405,
+            12014406,
+            12014407,
+            12014408,
+            12014409,
+            12014410,
+            12014411,
+            12014412,
+            12014413,
+            12014414,
+            12014415,
+            12014416,
+            12014417,
+            12014418,
+            12014501
+        ]
+    },
+    {
+        "activityId": 5082,
+        "activityType": "NEW_ACTIVITY_GEAR",
+        "nameTextMapHash": 3676486099,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508201
+        ],
+        "watcherId": [
+            15082001,
+            15082002,
+            15082003,
+            15082004,
+            15082005,
+            15082006
+        ]
+    },
+    {
+        "activityId": 5083,
+        "activityType": "NEW_ACTIVITY_ISLAND_PARTY",
+        "nameTextMapHash": 2618971707,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508301
+        ],
+        "watcherId": [
+            15083001,
+            15083002,
+            15083003,
+            15083004,
+            15083005,
+            15083006,
+            15083007,
+            15083008,
+            15083009,
+            15083010,
+            15083011,
+            15083012,
+            15083013,
+            15083014,
+            15083015,
+            15083016,
+            15083017,
+            15083018
+        ]
+    },
+    {
+        "activityId": 5084,
+        "activityType": "NEW_ACTIVITY_ECHO_SHELL",
+        "nameTextMapHash": 97430259,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508401
+        ],
+        "watcherId": []
+    },
+    {
+        "activityId": 5085,
+        "activityType": "NEW_ACTIVITY_ARENA_CHALLENGE",
+        "nameTextMapHash": 1863926515,
+        "activitySceneTag": "",
+        "condGroupId": [
+            508501
+        ],
+        "watcherId": [
+            1508501,
+            1508502,
+            1508503,
+            1508504,
+            1508505,
+            1508506,
+            1508507,
+            1508508,
+            1508509,
+            1508510,
+            1508511,
+            1508512,
+            1508513,
+            1508514,
+            1508515,
+            1508516,
+            1508517,
+            1508518,
+            1508519,
+            1508520,
+            1508521,
+            1508522,
+            1508523,
+            1508524,
+            1508525,
+            1508526,
+            1508527,
+            1508528
+        ]
+    },
+    {
+        "activityId": 5088,
+        "activityType": "NEW_ACTIVITY_PERSONAL_LIINE",
+        "nameTextMapHash": 2691440459,
         "activitySceneTag": "",
         "condGroupId": [],
         "watcherId": []
