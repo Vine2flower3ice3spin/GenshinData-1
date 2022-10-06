@@ -92,7 +92,7 @@
         "triggerConfig": {
             "triggerType": "TRIGGER_MONSTER_DIE",
             "paramList": [
-                "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101;22060101;26050701;24010401",
+                "20040101;20040201;20040301;26020201;26020101;20050101;29020102;26050101;26050201;26050301;26050401;20040501;25090101;20040601;24021101;20040401;20070101;22060101;26050701;24010401;26110101;26020301;24050101;24030301",
                 "\u53ef\u8054\u673a",
                 "",
                 ""
@@ -176,7 +176,7 @@
         "triggerConfig": {
             "triggerType": "TRIGGER_FINISH_BLOSSOM_PROGRESS",
             "paramList": [
-                "1;2;3;4;20;21",
+                "1;2;3;4;20;21;26;27",
                 "",
                 "",
                 ""
@@ -395,6 +395,575 @@
             ]
         },
         "progress": 12
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 2800,
+        "descTextMapHash": 1173848650,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76501,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_GACHA_NUM",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 50
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 2250,
+        "scheduleId": 2800,
+        "descTextMapHash": 1165294178,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76502,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_TOWER_STARS_NUM",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 12
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1200,
+        "scheduleId": 2800,
+        "activityId": 2014,
+        "descTextMapHash": 3683619778,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76503,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
+            "paramList": [
+                "11401101",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 2800,
+        "activityId": 2014,
+        "descTextMapHash": 2577617050,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76504,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_CHALLENGE_LEFT_TIME",
+            "paramList": [
+                "199003025",
+                "2018",
+                "2018",
+                "9860"
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 2250,
+        "scheduleId": 2800,
+        "activityId": 2014,
+        "descTextMapHash": 162000482,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76505,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "paramList": [
+                "141",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 2000
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 2800,
+        "activityId": 5083,
+        "descTextMapHash": 2290610114,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76506,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_ISLAND_PARTY_REACH_SCORE",
+            "paramList": [
+                "6",
+                "350",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 2800,
+        "activityId": 5082,
+        "descTextMapHash": 407764914,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76507,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_GEAR_FINISH_JIGSAW_PICTURE",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 2800,
+        "activityId": 5085,
+        "descTextMapHash": 3309106090,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76509,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_FINISH_ALL_ARENA_CHALLENGE_WATCHER_IN_SCHEDULE",
+            "paramList": [
+                "5085001",
+                "1508526",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3000,
+        "descTextMapHash": 1204286666,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76601,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_GACHA_NUM",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 50
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 2250,
+        "scheduleId": 3000,
+        "descTextMapHash": 3748601266,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76602,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_TOWER_STARS_NUM",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 12
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3000,
+        "activityId": 2015,
+        "descTextMapHash": 1569684362,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76603,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_GRAVEN_INNOCENCE_CARVE_COMPLETE_NUM",
+            "paramList": [
+                "5",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3000,
+        "activityId": 2015,
+        "descTextMapHash": 403027002,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76604,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "paramList": [
+                "143",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 2000
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3000,
+        "activityId": 2015,
+        "descTextMapHash": 2636900322,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76605,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
+            "paramList": [
+                "144",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 2000
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3000,
+        "activityId": 5087,
+        "descTextMapHash": 2712896698,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76606,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_INSTABLE_SPRAY_REACH_SCORE",
+            "paramList": [
+                "4",
+                "2000",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3000,
+        "activityId": 5090,
+        "descTextMapHash": 3907520314,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76607,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_MUQADAS_POTION_LEVEL_WEAKNESS_NUM",
+            "paramList": [
+                "6",
+                "30",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3000,
+        "activityId": 5091,
+        "descTextMapHash": 846052682,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76608,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_TREASURE_SEELIE_DONE_REGION",
+            "paramList": [
+                "5091",
+                "5091001",
+                "6",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "descTextMapHash": 508337994,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76701,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_GACHA_NUM",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 50
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 2250,
+        "scheduleId": 3100,
+        "descTextMapHash": 1127423418,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76702,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_TOWER_STARS_NUM",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 12
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "activityId": 2016,
+        "descTextMapHash": 2206072578,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76703,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_VINTAGE_MARKET_COIN_A",
+            "paramList": [
+                "1000000",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "activityId": 2016,
+        "descTextMapHash": 1122252194,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76704,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_VINTAGE_COLLECT_DECORATION_NUM",
+            "paramList": [
+                "14",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "activityId": 2016,
+        "descTextMapHash": 2640793778,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76705,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_VINTAGE_FINISH_CAMP",
+            "paramList": [
+                "15",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "activityId": 2016,
+        "descTextMapHash": 2519518530,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76706,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_VINTAGE_HUNTING_FINISH_BOSS",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "activityId": 5095,
+        "descTextMapHash": 2791529930,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76707,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_EXHIBITION_REPLACEABLE_VALUE_SETTLE_NUM",
+            "paramList": [
+                "11701113",
+                "1",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "activityId": 5094,
+        "descTextMapHash": 2452405122,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76708,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_SUMO_TOTAL_MAX_SCORE_REACH",
+            "paramList": [
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 6000
+    },
+    {
+        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
+        "addPoint": 1500,
+        "scheduleId": 3100,
+        "activityId": 5096,
+        "descTextMapHash": 2895271378,
+        "guide": {
+            "param": [
+                ""
+            ]
+        },
+        "id": 76709,
+        "triggerConfig": {
+            "triggerType": "TRIGGER_ROCK_BOARD_EXPLORE_FINISH_STAGE_ID",
+            "paramList": [
+                "6",
+                "",
+                "",
+                ""
+            ]
+        },
+        "progress": 1
     },
     {
         "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
@@ -623,188 +1192,6 @@
             ]
         },
         "progress": 5
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 1500,
-        "scheduleId": 2800,
-        "descTextMapHash": 1173848650,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76501,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_GACHA_NUM",
-            "paramList": [
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        "progress": 50
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 2250,
-        "scheduleId": 2800,
-        "descTextMapHash": 1165294178,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76502,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_TOWER_STARS_NUM",
-            "paramList": [
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        "progress": 12
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 1200,
-        "scheduleId": 2800,
-        "activityId": 2014,
-        "descTextMapHash": 3683619778,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76503,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_EXHIBITION_ACCUMULABLE_VALUE",
-            "paramList": [
-                "11401101",
-                "",
-                "",
-                ""
-            ]
-        },
-        "progress": 1
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 1500,
-        "scheduleId": 2800,
-        "activityId": 2014,
-        "descTextMapHash": 2577617050,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76504,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_FINISH_CHALLENGE_LEFT_TIME",
-            "paramList": [
-                "199003025",
-                "2018",
-                "2018",
-                "9860"
-            ]
-        },
-        "progress": 1
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 2250,
-        "scheduleId": 2800,
-        "activityId": 2014,
-        "descTextMapHash": 162000482,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76505,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM",
-            "paramList": [
-                "141",
-                "",
-                "",
-                ""
-            ]
-        },
-        "progress": 2000
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 1500,
-        "scheduleId": 2800,
-        "activityId": 5083,
-        "descTextMapHash": 2290610114,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76506,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_ISLAND_PARTY_REACH_SCORE",
-            "paramList": [
-                "6",
-                "350",
-                "",
-                ""
-            ]
-        },
-        "progress": 1
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 1500,
-        "scheduleId": 2800,
-        "activityId": 5082,
-        "descTextMapHash": 407764914,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76507,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_GEAR_FINISH_JIGSAW_PICTURE",
-            "paramList": [
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        "progress": 1
-    },
-    {
-        "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",
-        "addPoint": 1500,
-        "scheduleId": 2800,
-        "activityId": 5085,
-        "descTextMapHash": 3309106090,
-        "guide": {
-            "param": [
-                ""
-            ]
-        },
-        "id": 76509,
-        "triggerConfig": {
-            "triggerType": "TRIGGER_FINISH_ALL_ARENA_CHALLENGE_WATCHER_IN_SCHEDULE",
-            "paramList": [
-                "5085001",
-                "1508526",
-                "",
-                ""
-            ]
-        },
-        "progress": 1
     },
     {
         "refreshType": "BATTLE_PASS_MISSION_REFRESH_SCHEDULE",

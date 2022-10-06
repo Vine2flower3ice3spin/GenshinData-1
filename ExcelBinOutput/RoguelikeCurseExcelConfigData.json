@@ -2,20 +2,20 @@
     {
         "level": 1,
         "groupId": 1,
-        "BIECOKCINHD": 1035603933,
+        "JNJJOIFBAHP": 1035603933,
         "descTextMapHash": 260384740,
-        "DGJAPLOLICD": {
+        "LIKIBHAPBML": {
             "effectType": "ROGUELIKE_EFFECT_DISABLE_SPRING_CELL",
-            "LBKOMDANGJK": "",
-            "BJLJCJGJGFE": ""
+            "IOGACGMFBKC": "",
+            "GFPCNPAKAFH": ""
         },
-        "NOGIFOHNHJD": true,
+        "HKHMNJCCKPB": true,
         "descParamList": [
             0.0,
             0.0,
             0.0
         ],
-        "CAPDLMAHBNG": [
+        "GBKHEBJBIGC": [
             false,
             false,
             false
@@ -24,20 +24,20 @@
     {
         "level": 1,
         "groupId": 2,
-        "BIECOKCINHD": 54219069,
+        "JNJJOIFBAHP": 54219069,
         "descTextMapHash": 3121034548,
-        "DGJAPLOLICD": {
+        "LIKIBHAPBML": {
             "effectType": "ROGUELIKE_EFFECT_ADD_LEVEL_TRAP",
-            "LBKOMDANGJK": "",
-            "BJLJCJGJGFE": ""
+            "IOGACGMFBKC": "",
+            "GFPCNPAKAFH": ""
         },
-        "NOGIFOHNHJD": true,
+        "HKHMNJCCKPB": true,
         "descParamList": [
             0.0,
             0.0,
             0.0
         ],
-        "CAPDLMAHBNG": [
+        "GBKHEBJBIGC": [
             false,
             false,
             false
@@ -46,20 +46,20 @@
     {
         "level": 5,
         "groupId": 3,
-        "BIECOKCINHD": 2034801749,
+        "JNJJOIFBAHP": 2034801749,
         "descTextMapHash": 3736884652,
-        "DGJAPLOLICD": {
+        "LIKIBHAPBML": {
             "effectType": "ROGUELIKE_EFFECT_STATIC_COMBAT",
-            "LBKOMDANGJK": "SGV_ROGUECURSE_MONSTERBUFF",
-            "BJLJCJGJGFE": "1"
+            "IOGACGMFBKC": "SGV_ROGUECURSE_MONSTERBUFF",
+            "GFPCNPAKAFH": "1"
         },
-        "NOGIFOHNHJD": true,
+        "HKHMNJCCKPB": true,
         "descParamList": [
             20.0,
             0.0,
             0.0
         ],
-        "CAPDLMAHBNG": [
+        "GBKHEBJBIGC": [
             true,
             false,
             false
@@ -68,20 +68,20 @@
     {
         "level": 4,
         "groupId": 4,
-        "BIECOKCINHD": 2241608685,
+        "JNJJOIFBAHP": 2241608685,
         "descTextMapHash": 2210724516,
-        "DGJAPLOLICD": {
+        "LIKIBHAPBML": {
             "effectType": "ROGUELIKE_EFFECT_RANDOM_AVATAR_NOHEAL",
-            "LBKOMDANGJK": "SGV_ROGUE_CURSE_NOHEAL",
-            "BJLJCJGJGFE": "1"
+            "IOGACGMFBKC": "SGV_ROGUE_CURSE_NOHEAL",
+            "GFPCNPAKAFH": "1"
         },
-        "NOGIFOHNHJD": true,
+        "HKHMNJCCKPB": true,
         "descParamList": [
             0.0,
             0.0,
             0.0
         ],
-        "CAPDLMAHBNG": [
+        "GBKHEBJBIGC": [
             false,
             false,
             false
@@ -90,19 +90,19 @@
     {
         "level": 1,
         "groupId": 5,
-        "BIECOKCINHD": 3838913645,
+        "JNJJOIFBAHP": 3838913645,
         "descTextMapHash": 3885911452,
-        "DGJAPLOLICD": {
+        "LIKIBHAPBML": {
             "effectType": "ROGUELIKE_EFFECT_STATIC_COMBAT",
-            "LBKOMDANGJK": "SGV_ROGUECURSE_BOMBDAMAGE",
-            "BJLJCJGJGFE": "1"
+            "IOGACGMFBKC": "SGV_ROGUECURSE_BOMBDAMAGE",
+            "GFPCNPAKAFH": "1"
         },
         "descParamList": [
             0.0,
             0.0,
             0.0
         ],
-        "CAPDLMAHBNG": [
+        "GBKHEBJBIGC": [
             false,
             false,
             false
@@ -111,19 +111,19 @@
     {
         "level": 5,
         "groupId": 6,
-        "BIECOKCINHD": 3068832069,
+        "JNJJOIFBAHP": 3068832069,
         "descTextMapHash": 2612695412,
-        "DGJAPLOLICD": {
+        "LIKIBHAPBML": {
             "effectType": "ROGUELIKE_EFFECT_STATIC_COMBAT",
-            "LBKOMDANGJK": "SGV_ROGUECURSE_EXTRAHURT",
-            "BJLJCJGJGFE": "1"
+            "IOGACGMFBKC": "SGV_ROGUECURSE_EXTRAHURT",
+            "GFPCNPAKAFH": "1"
         },
         "descParamList": [
             20.0,
             0.0,
             0.0
         ],
-        "CAPDLMAHBNG": [
+        "GBKHEBJBIGC": [
             true,
             false,
             false

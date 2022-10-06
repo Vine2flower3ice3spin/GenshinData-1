@@ -2,28 +2,28 @@
     {
         "levelId": 1,
         "openDay": 1,
-        "GDNEEBMIBHF": [],
+        "LFHBNHPDLHD": [],
         "mainQuest": 72659,
-        "KJGCBAGDECN": [],
+        "ICOADJELPBO": [],
         "levelNameTextMapHash": 3234887321,
         "descriptionTextMapHash": 2276622360,
         "titleTextMapHash": 3004411014
     },
     {
         "levelId": 3,
-        "AAIFBEEMCPC": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
-        "GFOPKIHIKED": 3,
+        "AHNJPLCJGMP": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
+        "FBAEGDBCHBN": 3,
         "galleryId": 11002,
         "challengeId": 111178,
         "openDay": 1,
-        "GDNEEBMIBHF": [
+        "LFHBNHPDLHD": [
             1504104,
             1504105,
             1504106
         ],
-        "OKLGPPICFJH": 1,
-        "GPCOGCEHCMG": 72659,
-        "KJGCBAGDECN": [
+        "HJNNGKNEFNA": 1,
+        "GFONAHPKIDO": 72659,
+        "ICOADJELPBO": [
             700.4874267578125,
             202.71609497070312,
             4.608615875244141
@@ -35,17 +35,17 @@
     },
     {
         "levelId": 2,
-        "AAIFBEEMCPC": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_TOTAL",
+        "AHNJPLCJGMP": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_TOTAL",
         "galleryId": 11001,
         "challengeId": 111177,
         "openDay": 2,
-        "GDNEEBMIBHF": [
+        "LFHBNHPDLHD": [
             1504101,
             1504102,
             1504103
         ],
-        "GPCOGCEHCMG": 72659,
-        "KJGCBAGDECN": [
+        "GFONAHPKIDO": 72659,
+        "ICOADJELPBO": [
             232.8166961669922,
             200.0,
             683.4166870117188
@@ -58,28 +58,28 @@
     {
         "levelId": 4,
         "openDay": 3,
-        "GDNEEBMIBHF": [],
-        "GPCOGCEHCMG": 72659,
+        "LFHBNHPDLHD": [],
+        "GFONAHPKIDO": 72659,
         "mainQuest": 72661,
-        "KJGCBAGDECN": [],
+        "ICOADJELPBO": [],
         "levelNameTextMapHash": 3820804857,
         "descriptionTextMapHash": 2776474008,
         "titleTextMapHash": 3421387030
     },
     {
         "levelId": 6,
-        "AAIFBEEMCPC": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
-        "GFOPKIHIKED": 2,
+        "AHNJPLCJGMP": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_SPECIFIC",
+        "FBAEGDBCHBN": 2,
         "galleryId": 11004,
         "challengeId": 111180,
         "openDay": 4,
-        "GDNEEBMIBHF": [
+        "LFHBNHPDLHD": [
             1504110,
             1504111,
             1504112
         ],
-        "GPCOGCEHCMG": 72659,
-        "KJGCBAGDECN": [
+        "GFONAHPKIDO": 72659,
+        "ICOADJELPBO": [
             -3366.820068359375,
             200.13999938964844,
             -3224.89990234375
@@ -91,17 +91,17 @@
     },
     {
         "levelId": 5,
-        "AAIFBEEMCPC": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_CONTINUOUS",
+        "AHNJPLCJGMP": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_CHALLENGE_CONTINUOUS",
         "galleryId": 11003,
         "challengeId": 111179,
         "openDay": 5,
-        "GDNEEBMIBHF": [
+        "LFHBNHPDLHD": [
             1504107,
             1504108,
             1504109
         ],
-        "GPCOGCEHCMG": 72659,
-        "KJGCBAGDECN": [
+        "GFONAHPKIDO": 72659,
+        "ICOADJELPBO": [
             1696.449951171875,
             195.39999389648438,
             -1602.56005859375
@@ -114,10 +114,10 @@
     {
         "levelId": 7,
         "openDay": 6,
-        "GDNEEBMIBHF": [],
-        "GPCOGCEHCMG": 72661,
+        "LFHBNHPDLHD": [],
+        "GFONAHPKIDO": 72661,
         "mainQuest": 72662,
-        "KJGCBAGDECN": [],
+        "ICOADJELPBO": [],
         "levelNameTextMapHash": 2001507737,
         "descriptionTextMapHash": 1906710200,
         "titleTextMapHash": 1115684502
@@ -125,29 +125,29 @@
     {
         "levelId": 8,
         "openDay": 7,
-        "GDNEEBMIBHF": [],
-        "GPCOGCEHCMG": 72662,
+        "LFHBNHPDLHD": [],
+        "GFONAHPKIDO": 72662,
         "mainQuest": 72663,
-        "KJGCBAGDECN": [],
+        "ICOADJELPBO": [],
         "levelNameTextMapHash": 3918950545,
         "descriptionTextMapHash": 2987271904,
         "titleTextMapHash": 3893103022
     },
     {
         "levelId": 9,
-        "AAIFBEEMCPC": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_SPECIAL_FISH",
-        "GFOPKIHIKED": 1019,
+        "AHNJPLCJGMP": "MOONFIN_TRIAL_ACTIVITY_LEVEL_TYPE_SPECIAL_FISH",
+        "FBAEGDBCHBN": 1019,
         "galleryId": 11005,
         "challengeId": 111181,
         "openDay": 7,
-        "GDNEEBMIBHF": [
+        "LFHBNHPDLHD": [
             1504113,
             1504114,
             1504115
         ],
-        "OKLGPPICFJH": 8,
-        "GPCOGCEHCMG": 72663,
-        "KJGCBAGDECN": [
+        "HJNNGKNEFNA": 8,
+        "GFONAHPKIDO": 72663,
+        "ICOADJELPBO": [
             -3528.10009765625,
             200.0,
             -2986.89990234375
